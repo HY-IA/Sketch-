@@ -1,4 +1,4 @@
-// Basic program skeleton for a Sketch File (.sk) Viewer
+// Basic program skeleton for a Sketch File (.sk) Viewer//
 #include "displayfull.h"
 #include "sketch.h"
 #include <stdio.h>
